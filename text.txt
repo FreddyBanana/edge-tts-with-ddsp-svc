@@ -1,0 +1,4 @@
+你好呀，这里是存放待转换文本的地方
+换行表示换段(回车键)，每一段文本可以生成独立的音频
+This is where the text to be converted is stored
+A newline means a new segment (Enter key), and each segment of text can generate independent audio
